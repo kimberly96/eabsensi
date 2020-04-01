@@ -1,0 +1,243 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml:1:1-30:12
+MERGED from [:react-native-image-picker] /Users/febrifed/absensi3/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:2:1-23:12
+MERGED from [:react-native-vector-icons] /Users/febrifed/absensi3/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] /Users/febrifed/absensi3/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.58.5] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/react-native-0.58.5.aar/344130ae8d12dc2065b689d6cec25902/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/20fd34b548366a137150de6a0f16b866/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/487197c76ed8a56235b414a331370db6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/031067f5d0af2f4fff0d41400d02b657/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/e10b31008c854ce63c2a8bcbebe6f3d6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/0f2aae63275cb188a547c5e8044ff873/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/6fbebf39d1179cab3ecaff24a79f03b8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/82775ca19169ae3335c6346394fffa28/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/6281d0659fb417b21d21417113d37730/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/9cf73ea25a7c94c31378ef5771145106/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/0f9e95e073df7f3a79a6c397c968197d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/808f66274ff3930dc97ae4957cc10f8c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/ff42c64dbe080cf6e6851d23836c6892/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/78bf2a14db4af6a6c40271d78c0360ed/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/0f18c462f4a64411d724df8d9f0b1082/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6e63fd4feb243294927f4c3077243e18/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/344754fca1bb7f27d17b44779244ccbd/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/ba5fe1e62a45a072dea55cbc910f72a8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/559c0308963b940f72445254fd0814ba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/4a22da9f5f01e3d3f5cb0a974f62fe22/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/3bcbd62dc1256f8f4557217074d23782/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/a7f0da0e7af51c9d12cfb1d9f47d42e2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/16a54be7d5b0db832aafb29ac13ac6d2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/94aa37f497f8fbb75c649d635c241dfa/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/3a1c8cd9f7cb58245621334aeaf85d04/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/593bae90f358a6373d9d206fc4175b1d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/d637151e629e36f8adbb39205cd6dd26/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/0ff314e0f0a2bd5b954fb3d4a61c5ae3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/aff65e0df86c6704a0f45c7a59a2556a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/3be35f217673fabf855a2c886fbf0b82/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/45dfe8129f5db1aa35df35a0f9edaa7a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/8e2b96716045b2399df10f7157cb1066/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/8240eeaf3b08134b5057b32b99f1d4e3/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/d00ecd0a461505fcc9cb9d791d644a45/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/d30266744c456dcde43847bf05b50580/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml:1:1-30:12
+	package
+		ADDED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml:2:3-24
+		INJECTED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml:1:1-30:12
+		INJECTED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml:1:1-30:12
+		INJECTED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.58.5] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/react-native-0.58.5.aar/344130ae8d12dc2065b689d6cec25902/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.58.5] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/react-native-0.58.5.aar/344130ae8d12dc2065b689d6cec25902/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.CAMERA
+ADDED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml:6:5-64
+	android:name
+		ADDED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml:6:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml:8:22-76
+application
+ADDED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml:10:5-28:19
+MERGED from [:react-native-image-picker] /Users/febrifed/absensi3/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-image-picker] /Users/febrifed/absensi3/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:11:5-21:19
+MERGED from [com.facebook.react:react-native:0.58.5] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/react-native-0.58.5.aar/344130ae8d12dc2065b689d6cec25902/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.58.5] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/react-native-0.58.5.aar/344130ae8d12dc2065b689d6cec25902/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6e63fd4feb243294927f4c3077243e18/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6e63fd4feb243294927f4c3077243e18/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/344754fca1bb7f27d17b44779244ccbd/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/344754fca1bb7f27d17b44779244ccbd/AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/8240eeaf3b08134b5057b32b99f1d4e3/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/8240eeaf3b08134b5057b32b99f1d4e3/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/d00ecd0a461505fcc9cb9d791d644a45/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/d00ecd0a461505fcc9cb9d791d644a45/AndroidManifest.xml:2:3-17
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6e63fd4feb243294927f4c3077243e18/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml:12:7-39
+	android:roundIcon
+		ADDED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml:14:7-52
+	android:icon
+		ADDED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml:13:7-41
+	android:allowBackup
+		ADDED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml:15:7-34
+	android:theme
+		ADDED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml:16:7-38
+	android:name
+		ADDED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml:11:7-38
+activity#com.absensi.MainActivity
+ADDED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml:17:7-26:18
+	android:label
+		ADDED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml:19:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml:21:9-51
+	android:configChanges
+		ADDED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml:20:9-79
+	android:name
+		ADDED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml:18:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml:22:9-25:25
+action#android.intent.action.MAIN
+ADDED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml:23:13-65
+	android:name
+		ADDED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml:23:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml:24:13-73
+	android:name
+		ADDED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml:24:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml:27:7-84
+	android:name
+		ADDED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml:27:17-81
+uses-sdk
+INJECTED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-image-picker] /Users/febrifed/absensi3/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] /Users/febrifed/absensi3/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/febrifed/absensi3/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/febrifed/absensi3/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/febrifed/absensi3/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/febrifed/absensi3/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.58.5] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/react-native-0.58.5.aar/344130ae8d12dc2065b689d6cec25902/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.58.5] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/react-native-0.58.5.aar/344130ae8d12dc2065b689d6cec25902/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/20fd34b548366a137150de6a0f16b866/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/20fd34b548366a137150de6a0f16b866/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/487197c76ed8a56235b414a331370db6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/487197c76ed8a56235b414a331370db6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/031067f5d0af2f4fff0d41400d02b657/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/031067f5d0af2f4fff0d41400d02b657/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/e10b31008c854ce63c2a8bcbebe6f3d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/e10b31008c854ce63c2a8bcbebe6f3d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/0f2aae63275cb188a547c5e8044ff873/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/0f2aae63275cb188a547c5e8044ff873/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/6fbebf39d1179cab3ecaff24a79f03b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/6fbebf39d1179cab3ecaff24a79f03b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/82775ca19169ae3335c6346394fffa28/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/82775ca19169ae3335c6346394fffa28/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/6281d0659fb417b21d21417113d37730/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/6281d0659fb417b21d21417113d37730/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/9cf73ea25a7c94c31378ef5771145106/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/9cf73ea25a7c94c31378ef5771145106/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/0f9e95e073df7f3a79a6c397c968197d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/0f9e95e073df7f3a79a6c397c968197d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/808f66274ff3930dc97ae4957cc10f8c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/808f66274ff3930dc97ae4957cc10f8c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/ff42c64dbe080cf6e6851d23836c6892/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/ff42c64dbe080cf6e6851d23836c6892/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/78bf2a14db4af6a6c40271d78c0360ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/78bf2a14db4af6a6c40271d78c0360ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/0f18c462f4a64411d724df8d9f0b1082/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/0f18c462f4a64411d724df8d9f0b1082/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6e63fd4feb243294927f4c3077243e18/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6e63fd4feb243294927f4c3077243e18/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/344754fca1bb7f27d17b44779244ccbd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/344754fca1bb7f27d17b44779244ccbd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/ba5fe1e62a45a072dea55cbc910f72a8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/ba5fe1e62a45a072dea55cbc910f72a8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/559c0308963b940f72445254fd0814ba/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/559c0308963b940f72445254fd0814ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/4a22da9f5f01e3d3f5cb0a974f62fe22/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/4a22da9f5f01e3d3f5cb0a974f62fe22/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/3bcbd62dc1256f8f4557217074d23782/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/3bcbd62dc1256f8f4557217074d23782/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/a7f0da0e7af51c9d12cfb1d9f47d42e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/a7f0da0e7af51c9d12cfb1d9f47d42e2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/16a54be7d5b0db832aafb29ac13ac6d2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/16a54be7d5b0db832aafb29ac13ac6d2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/94aa37f497f8fbb75c649d635c241dfa/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/94aa37f497f8fbb75c649d635c241dfa/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/3a1c8cd9f7cb58245621334aeaf85d04/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/3a1c8cd9f7cb58245621334aeaf85d04/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/593bae90f358a6373d9d206fc4175b1d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/593bae90f358a6373d9d206fc4175b1d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/d637151e629e36f8adbb39205cd6dd26/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/d637151e629e36f8adbb39205cd6dd26/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/0ff314e0f0a2bd5b954fb3d4a61c5ae3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/0ff314e0f0a2bd5b954fb3d4a61c5ae3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/aff65e0df86c6704a0f45c7a59a2556a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/aff65e0df86c6704a0f45c7a59a2556a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/3be35f217673fabf855a2c886fbf0b82/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/3be35f217673fabf855a2c886fbf0b82/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/45dfe8129f5db1aa35df35a0f9edaa7a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/45dfe8129f5db1aa35df35a0f9edaa7a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/8e2b96716045b2399df10f7157cb1066/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/8e2b96716045b2399df10f7157cb1066/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/8240eeaf3b08134b5057b32b99f1d4e3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/8240eeaf3b08134b5057b32b99f1d4e3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/d30266744c456dcde43847bf05b50580/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/febrifed/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/d30266744c456dcde43847bf05b50580/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml
+provider#com.imagepicker.FileProvider
+ADDED from [:react-native-image-picker] /Users/febrifed/absensi3/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] /Users/febrifed/absensi3/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] /Users/febrifed/absensi3/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:14:13-60
+	android:exported
+		ADDED from [:react-native-image-picker] /Users/febrifed/absensi3/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-image-picker] /Users/febrifed/absensi3/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:13:13-56
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-picker] /Users/febrifed/absensi3/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:17:13-19:58
+	android:resource
+		ADDED from [:react-native-image-picker] /Users/febrifed/absensi3/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:19:17-55
+	android:name
+		ADDED from [:react-native-image-picker] /Users/febrifed/absensi3/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:18:17-67
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml:1:1-30:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/febrifed/absensi3/android/app/src/main/AndroidManifest.xml:1:1-30:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
